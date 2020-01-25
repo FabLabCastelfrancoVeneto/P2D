@@ -17,6 +17,11 @@ Certamente è possibile per chiunque creare (e condividere) i lproprio dispositi
 La libreria di dispositivi P2D potrà continuare a crescere grazie agli utilizzatori che condivideranno le loro soluzioni.
 
 // 
+![enter image description here][1]
+  
+PhotoGallery:
+http://bit.ly/P2D_pics
+//
 
 The project aims to create a set P2D devices based on cheap ESP\* wifi module, able to turn a physical device (like a remote, or a switch plate, ad so on) into one connected to the network.
 So ie you can turn on the light, or open your garage using your Telegram client or by a physical dashboard.
@@ -33,3 +38,5 @@ The P2D microsystem is opensource and is compatible with the Soluiss and OpenHab
 
 Of course you can create (and then share!) your own P2D device by using a 3d printer / lasercutter / cnc at home or in one of the thousand of FabLab.
 The library of the P2D device can continue growing thank to all the users who share their own device design.
+
+[1]: https://lh3.googleusercontent.com/Twy0yCDc71v3AcBvC37XHgslUx01OOKUGx7Gx9bPAjsn0Cc4cEyD0cAH9VnTkGbFKlX5V1Ed-rWrJCrwVCvouirwrrYHMMccMCJP-SeGy4X18ismx4593OlzVvDEP1NpCRrCcnpI858=w897-h665-no
