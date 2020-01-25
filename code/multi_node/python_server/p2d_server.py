@@ -1,3 +1,17 @@
+#   P2D
+#   An IoT toolkit to do cheap and not invasive home automation.
+#   It uses an ESP8266 board, with a little servo.
+#   The servo is used to mechanically move a switch button.
+#   Board and servo are assembled into a lasercutted device, that you can easiy fix on the top of 
+#   remotes/switch/..
+#
+#   The application used to control the device is a Telegram Bot!
+#   It is managed by a python server (this!), that communicates with the single node using MQTT.
+#   In this esamples, the MQTT server is installed in the same machine running this code (it's a mosquitto server)
+#
+#   CC BY-SA
+
+
 import paho.mqtt.client as mqtt
 from telegram.ext import Updater, CommandHandler
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup, ReplyKeyboardMarkup, KeyboardButton

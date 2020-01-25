@@ -1,3 +1,18 @@
+/*
+  P2D
+  An IoT toolkit to do cheap and not invasive home automation.
+  It uses an ESP8266 board, with a little servo.
+  The servo is used to mechanically move a switch button.
+  Board and servo are assembled into a lasercutted device, that you can easiy fix on the top of 
+  remotes/switch/..
+
+  The application used to control the device is a Telegram Bot!
+
+  There's no authentication or access control list at the moment.
+
+  CC BY-SA
+*/
+
 #include <Servo.h>
 #include <ESP8266WiFi.h>
 #include <WiFiClientSecure.h>
